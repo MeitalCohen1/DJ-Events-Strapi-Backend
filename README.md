@@ -1,3 +1,5 @@
-# Strapi application
+DJ Events (Strapi Backend)
 
-A quick description of your strapi application
+> Strapi backend for the DJ Events website. This is part of my Next.js course on Udemy
+
+The Next.js frontend can be found [here]
