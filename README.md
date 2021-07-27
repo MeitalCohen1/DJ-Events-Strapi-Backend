@@ -5,4 +5,5 @@ DJ Events (Strapi Backend)
 >   This is part of Next.js course on Udemy.
 
 The Next.js frontend can be found [here](https://github.com/MeitalCohen1/DJ-Events-Frontend)
+<br/>
 [VIEW DEMO](https://meital-dj-events-frontend.vercel.app/)
